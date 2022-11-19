@@ -3,8 +3,7 @@ from advertools import crawl
 import pandas as pd
 
 
-url_list = ['https://shopee.com.br/m/black-friday', 
-            'https://www.americanas.com.br/especial/black-friday', 
+url_list = ['https://www.americanas.com.br/especial/black-friday', 
             'https://www.mercadolivre.com.br/black-friday', 
             'https://www.shoptime.com.br/especial/black-friday', 
             'https://www.submarino.com.br/especial/black-friday'
